@@ -4,7 +4,6 @@ using NUnit.Framework;
 
 namespace NAGP_4124_UnitTesting
 {
-    [TestFixture]
     public class UnitTest
     {
         [Test]
