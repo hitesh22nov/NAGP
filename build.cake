@@ -38,14 +38,14 @@ Task("UnitTesting")
   NUnit("./NAGP_4124_UnitTesting/bin/Debug/NAGP_4124_UnitTesting.dll");
 });
 
-Task("CodeCoverage")
+/*Task("CodeCoverage")
     .Does(tool =>
     {
         tool.NUnit("./NAGP_4124_UnitTesting/bin/Debug/NAGP_4124_UnitTesting.dll");
     },
     new FilePath("./result.xml"),
     new OpenCoverSettings()
-);
+);*/
 
 Task("GenerateArtifacts")
 	.Does(() =>
