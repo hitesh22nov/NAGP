@@ -1,3 +1,5 @@
+E:\sec1\NAGP_4124_UnitTesting\obj\Debug\NAGP_4124_UnitTesting.csprojResolveAssemblyReference.cache
+E:\sec1\NAGP_4124_UnitTesting\obj\Debug\NAGP_4124_UnitTesting.csproj.CoreCompileInputs.cache
 E:\sec1\NAGP_4124_UnitTesting\bin\Debug\NAGP_4124_UnitTesting.dll
 E:\sec1\NAGP_4124_UnitTesting\bin\Debug\NAGP_4124_UnitTesting.pdb
 E:\sec1\NAGP_4124_UnitTesting\bin\Debug\NAGP_4124_Console.exe
@@ -6,8 +8,6 @@ E:\sec1\NAGP_4124_UnitTesting\bin\Debug\NAGP_4124_Console.pdb
 E:\sec1\NAGP_4124_UnitTesting\bin\Debug\NAGP_4124_Console.exe.config
 E:\sec1\NAGP_4124_UnitTesting\bin\Debug\nunit.framework.pdb
 E:\sec1\NAGP_4124_UnitTesting\bin\Debug\nunit.framework.xml
-E:\sec1\NAGP_4124_UnitTesting\obj\Debug\NAGP_4124_UnitTesting.csprojResolveAssemblyReference.cache
-E:\sec1\NAGP_4124_UnitTesting\obj\Debug\NAGP_4124_UnitTesting.csproj.CoreCompileInputs.cache
 E:\sec1\NAGP_4124_UnitTesting\obj\Debug\NAGP_4124_UnitTesting.csproj.CopyComplete
 E:\sec1\NAGP_4124_UnitTesting\obj\Debug\NAGP_4124_UnitTesting.dll
 E:\sec1\NAGP_4124_UnitTesting\obj\Debug\NAGP_4124_UnitTesting.pdb

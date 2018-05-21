@@ -1,7 +1,6 @@
 E:\sec1\NAGP_4124_Console\bin\Debug\NAGP_4124_Console.exe.config
 E:\sec1\NAGP_4124_Console\bin\Debug\NAGP_4124_Console.exe
 E:\sec1\NAGP_4124_Console\bin\Debug\NAGP_4124_Console.pdb
-E:\sec1\NAGP_4124_Console\obj\Debug\NAGP_4124_Console.csprojResolveAssemblyReference.cache
 E:\sec1\NAGP_4124_Console\obj\Debug\NAGP_4124_Console.csproj.CoreCompileInputs.cache
 E:\sec1\NAGP_4124_Console\obj\Debug\NAGP_4124_Console.exe
 E:\sec1\NAGP_4124_Console\obj\Debug\NAGP_4124_Console.pdb

@@ -1,10 +1,9 @@
-E:\sec1\NAGP_4124_IntegrationTesting\obj\Debug\NAGP_4124_IntegrationTesting.csprojResolveAssemblyReference.cache
-E:\sec1\NAGP_4124_IntegrationTesting\obj\Debug\NAGP_4124_IntegrationTesting.csproj.CoreCompileInputs.cache
 E:\sec1\NAGP_4124_IntegrationTesting\bin\Debug\NAGP_4124_IntegrationTesting.dll
 E:\sec1\NAGP_4124_IntegrationTesting\bin\Debug\NAGP_4124_IntegrationTesting.pdb
 E:\sec1\NAGP_4124_IntegrationTesting\bin\Debug\nunit.framework.dll
 E:\sec1\NAGP_4124_IntegrationTesting\bin\Debug\nunit.framework.pdb
 E:\sec1\NAGP_4124_IntegrationTesting\bin\Debug\nunit.framework.xml
+E:\sec1\NAGP_4124_IntegrationTesting\obj\Debug\NAGP_4124_IntegrationTesting.csproj.CoreCompileInputs.cache
 E:\sec1\NAGP_4124_IntegrationTesting\obj\Debug\NAGP_4124_IntegrationTesting.csproj.CopyComplete
 E:\sec1\NAGP_4124_IntegrationTesting\obj\Debug\NAGP_4124_IntegrationTesting.dll
 E:\sec1\NAGP_4124_IntegrationTesting\obj\Debug\NAGP_4124_IntegrationTesting.pdb
