@@ -14,9 +14,9 @@ Task("Default")
 Task("Clean")  
     .Does(() =>
 {
-	CleanDirectory("./NAGP_4183_Console/bin/Debug");
-	CleanDirectory("./NAGP_4183_UnitTesting/bin/Debug");
-	CleanDirectory("./NAGP_4183_IntegrationTesting/bin/Debug");
+	CleanDirectory("./NAGP_4124_Console/bin/Debug");
+	CleanDirectory("./NAGP_4124_UnitTesting/bin/Debug");
+	CleanDirectory("./NAGP_4124_IntegrationTesting/bin/Debug");
 });
 
 
@@ -35,7 +35,7 @@ Task("Build")
 Task("UnitTesting")
     .Does(() =>
 {
-  NUnit("./NAGP_4183_UnitTesting/bin/Debug/NAGP_4183_UnitTesting.dll");
+  MSTest("./NAGP_UnitTesting/bin/Debug/NAGP_4124_UnitTesting.dll");
 });
 
 Task("GenerateArtifacts")

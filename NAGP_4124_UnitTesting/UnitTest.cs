@@ -1,19 +1,20 @@
 ﻿using System;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using NAGP_4124_Console;
-using NUnit.Framework;
 
 namespace NAGP_4124_UnitTesting
 {
+    [TestClass]
     public class UnitTest
     {
-        [Test]
+        [TestMethod]
         public void SayHello()
         {
             Program program = new Program();
             Assert.IsTrue(program.SayHello().Equals("Hello"));
         }
 
-        [Test]
+        [TestMethod]
         public void PassTest()
         {
             Program program = new Program();

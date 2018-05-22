@@ -14,3 +14,15 @@ E:\Mohit4183\DevOps_123\NAGP_4124_IntegrationTesting\bin\Debug\FluentValidation.
 E:\Mohit4183\DevOps_123\NAGP_4124_IntegrationTesting\obj\Debug\NAGP_4124_IntegrationTesting.dll
 E:\Mohit4183\DevOps_123\NAGP_4124_IntegrationTesting\obj\Debug\NAGP_4124_IntegrationTesting.pdb
 E:\Mohit4183\DevOps_123\NAGP_4124_IntegrationTesting\obj\Debug\NAGP_4124_IntegrationTesting.csprojResolveAssemblyReference.cache
+E:\sec1\NAGP_4124_IntegrationTesting\bin\Debug\NAGP_4124_IntegrationTesting.dll
+E:\sec1\NAGP_4124_IntegrationTesting\bin\Debug\NAGP_4124_IntegrationTesting.pdb
+E:\sec1\NAGP_4124_IntegrationTesting\bin\Debug\FluentValidation.dll
+E:\sec1\NAGP_4124_IntegrationTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\sec1\NAGP_4124_IntegrationTesting\bin\Debug\FluentValidation.xml
+E:\sec1\NAGP_4124_IntegrationTesting\obj\Debug\NAGP_4124_IntegrationTesting.csproj.CoreCompileInputs.cache
+E:\sec1\NAGP_4124_IntegrationTesting\obj\Debug\NAGP_4124_IntegrationTesting.csproj.CopyComplete
+E:\sec1\NAGP_4124_IntegrationTesting\obj\Debug\NAGP_4124_IntegrationTesting.dll
+E:\sec1\NAGP_4124_IntegrationTesting\obj\Debug\NAGP_4124_IntegrationTesting.pdb
+E:\sec1\NAGP_4124_IntegrationTesting\bin\Debug\Microsoft.DotNet.InternalAbstractions.dll
+E:\sec1\NAGP_4124_IntegrationTesting\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\sec1\NAGP_4124_IntegrationTesting\obj\Debug\NAGP_4124_IntegrationTesting.csprojResolveAssemblyReference.cache
